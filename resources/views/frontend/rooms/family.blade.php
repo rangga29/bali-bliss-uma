@@ -65,22 +65,31 @@
                         <div class="post-content">
                             <p class="text-justify text-dark">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ad aliquid asperiores dolores dolorum earum esse est et ex, expedita explicabo facere facilis fuga fugit illum impedit ipsam ipsum laborum minima minus molestias odit perferendis quis quisquam recusandae rem repellat reprehenderit repudiandae rerum sed sequi temporibus tenetur unde vitae voluptatibus?</p>
                             <figure class="figure">
-                                <img src="{{ asset('images/family/family_1.jpg') }}" class="figure-img img-fluid rounded" alt="...">
+                                <img src="{{ asset('images/family/family_new_1.jpg') }}" class="figure-img img-fluid rounded" alt="...">
                             </figure>
                             <figure class="figure">
-                                <img src="{{ asset('images/family/family_2.jpg') }}" class="figure-img img-fluid rounded" alt="...">
+                                <img src="{{ asset('images/family/family_new_2.jpg') }}" class="figure-img img-fluid rounded" alt="...">
                             </figure>
                             <figure class="figure">
-                                <img src="{{ asset('images/family/family_3.jpg') }}" class="figure-img img-fluid rounded" alt="...">
+                                <img src="{{ asset('images/family/family_new_3.jpg') }}" class="figure-img img-fluid rounded" alt="...">
                             </figure>
                             <figure class="figure">
-                                <img src="{{ asset('images/family/family_4.jpg') }}" class="figure-img img-fluid rounded" alt="...">
+                                <img src="{{ asset('images/family/family_new_4.jpg') }}" class="figure-img img-fluid rounded" alt="...">
                             </figure>
                             <figure class="figure">
-                                <img src="{{ asset('images/family/family_5.jpg') }}" class="figure-img img-fluid rounded" alt="...">
+                                <img src="{{ asset('images/family/family_new_5.jpg') }}" class="figure-img img-fluid rounded" alt="...">
                             </figure>
                             <figure class="figure">
-                                <img src="{{ asset('images/family/family_6.jpg') }}" class="figure-img img-fluid rounded" alt="...">
+                                <img src="{{ asset('images/family/family_new_6.jpg') }}" class="figure-img img-fluid rounded" alt="...">
+                            </figure>
+                            <figure class="figure">
+                                <img src="{{ asset('images/family/family_new_7.jpg') }}" class="figure-img img-fluid rounded" alt="...">
+                            </figure>
+                            <figure class="figure">
+                                <img src="{{ asset('images/family/family_new_8.jpg') }}" class="figure-img img-fluid rounded" alt="...">
+                            </figure>
+                            <figure class="figure">
+                                <img src="{{ asset('images/family/family_new_9.jpg') }}" class="figure-img img-fluid rounded" alt="...">
                             </figure>
                         </div>
                     </article>
